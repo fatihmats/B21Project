@@ -9,7 +9,7 @@ public class FindMaxNumbers {
                 }
 
             }
-
+      //find max number
         }
         System.out.println("Max number is : "+max);
     }
